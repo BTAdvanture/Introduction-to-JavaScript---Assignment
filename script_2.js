@@ -1,0 +1,5 @@
+document.getElementById("para").innerHTML="Hello JavaScript"
+document.getElementById("para").style.color="red"
+document.getElementById("bg").style.backgroundColor="cyan"
+document.getElementById("bg").style.textAlign="center"
+document.getElementById("bg").style.border="1px solid black"
